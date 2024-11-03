@@ -39,20 +39,11 @@ A simple Python program that calculates a person's age in years, months, and day
 - Follow the prompts to enter your name and age.
  -  Input your name: John
  -  Input your age: 25
-  -- John's age is 25 years or 300 months or 9,126 days.
+   OUTPUT IS _ John's age is 25 years or 300 months or 9,126 days.
 
 
 ## Contributing
 
 Feel free to submit issues or pull requests if you want to contribute to this project!
 
-Acknowledgements
-Inspired by various online resources on Python date manipulation.
-vbnet
-Copy code
 
-### Instructions to Use
-
-1. Replace `yourusername` in the clone command with your actual GitHub username.
-2. Ensure that the filename in the usage section (`age_calculator.py`) matches the actual name of your Python script.
-3. Customize any other sections as needed.
